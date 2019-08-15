@@ -24,3 +24,7 @@ So you can work on the latest code
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Email! SVN! Pizza Boxes. It'd be easier to just update a shared drive, but it'd be harder to track changes and merge
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Scale of change, proof of concept work, experimental work, spike work you'd throw away.
