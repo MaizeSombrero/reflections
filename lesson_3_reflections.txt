@@ -16,3 +16,7 @@ Fork is to break off your own version from a git repository if you can't edit th
 Clones is making a local copy of the GitHub repository or vice versa
 
 Branches are different code paths on the same respository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So you can work on the latest code
