@@ -8,3 +8,11 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 1.You may be working on a certain feature set and not want everything to be overwritten.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is to break off your own version from a git repository if you can't edit the original. There won't be a merge of the two.
+
+Clones is making a local copy of the GitHub repository or vice versa
+
+Branches are different code paths on the same respository
